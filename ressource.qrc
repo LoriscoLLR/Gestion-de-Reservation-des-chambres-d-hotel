@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/add.png</file>
+        <file>image/chambre.png</file>
+        <file>image/client.png</file>
+        <file>image/home.png</file>
+        <file>image/hotel.png</file>
+        <file>image/mot de passe.png</file>
+        <file>image/remove.png</file>
+        <file>image/reservation.png</file>
+        <file>image/update.png</file>
+        <file>gestion.db</file>
+        <file>image/research.png</file>
+        <file>image/leave.png</file>
+        <file>image/images.png</file>
+        <file>image/logo.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>logo.ico</file>
+        <file>gestion.db</file>
+    </qresource>
+</RCC>
